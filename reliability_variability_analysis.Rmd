@@ -1,0 +1,69 @@
+---
+title: "draft"
+author: "bbaasan"
+date: "2024-05-20"
+output: pdf_document
+bibliography: reference.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Performance analysis can address some aspects of reliability and variability, but it might not fully answer all questions that could arise during a discussion. Here’s how performance analysis contributes and what additional factors you might need to consider:
+
+### Contributions of Performance Analysis:
+**Reliability**:
+- Test-Retest Reliability: By analyzing how consistently a subject performs the same task under similar conditions over multiple trials, you can assess the reliability of their performance.
+- Intra-Rater Reliability: If the same individual performs the task multiple times, you can measure how consistent their performance is across these attempts.
+
+**Variability**:  
+- Within-Subject Variability: Performance analysis can quantify how much a single subject's performance varies across different trials.
+- Between-Subject Variability: It can also measure differences in performance between different subjects.
+
+### Additional Considerations for Comprehensive Reliability and Variability Analysis:
+
+Instrumentation and Measurement Precision:
+
+- Ensure that the tools and methods used for capturing and analyzing performance (e.g., cameras, sensors, software) are precise and reliable. Any variability or inaccuracy in these tools can affect the overall reliability of the performance analysis.
+
+Environmental Factors:
+- Control environmental conditions such as lighting, noise, and physical setup to minimize external factors that could introduce variability.
+
+Subject Factors:
+- Consider individual differences such as age, physical condition, and familiarity with the task, as these can impact performance variability.
+
+Inter-Rater Reliability (if applicable):
+- If human evaluators are involved in assessing performance (e.g., scoring or observing), measure the consistency between different evaluators.
+
+Longitudinal Assessment:
+- Conducting the test over a longer period can help identify trends and changes in performance, providing a more comprehensive view of reliability and variability.
+
+
+### Steps to Enhance Reliability and Address Variability:
+
+1. Standardize Procedures:  
+  Ensure that the procedure for conducting the test is standardized and consistently followed across all trials and subjects.
+2. Calibrate Equipment:
+  Regularly calibrate the equipment used for measurement to ensure accuracy and reliability.
+3. Training:
+  If human evaluators are involved, provide thorough training to ensure they apply assessment criteria consistently.
+4. Statistical Analysis:
+  Use appropriate statistical methods to analyze performance data. Methods like Intraclass Correlation Coefficient (ICC) for reliability and Analysis of Variance (ANOVA) for variability can provide deeper insights.
+
+### Repeated Measures:
+  Use repeated measures to assess consistency and identify patterns of variability.
+
+*Conclusion**
+While performance analysis is a key component in assessing reliability and variability, a comprehensive approach should include considerations of measurement tools, environmental conditions, subject factors, and statistical analysis. By addressing these additional factors, you can provide a more thorough and nuanced understanding of reliability and variability in the context of the task being assessed.
+
+
+@rezaei2019novel introduces a virtual reality training (VRT), a novel video game comprises of 50 stages divided into unidirectional and two-directional stages ordered from easy to hard. It is compared to conventional propioceptive training (CPT) which consists of eye-follow, gaze stability, eye-head coordination and position and movement sense training.
+
+Neck pain improvement was significantly associated with changes in postural awareness in subject with chronic nonspecific neck pain independent of treatment characteristics [@lauche2017does]  
+
+The study is to determine if different parameters of cervical position (JPE) and movement (Butterfly) sense tests represent distinct components of motor-control strategies in patients with chronic NP. 
+- easy vs. difficulty  
+- one movement vs. specific component  
+Reports theses components could be related to central and peripheral sensoromotor adaptations present in NP [@majcen2024cervicocephalic]
